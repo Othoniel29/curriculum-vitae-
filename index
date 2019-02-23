@@ -1,0 +1,73 @@
+ <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Othoniel</title>
+        <meta charset="utf-8">
+        <link rel="shorcut icon" type="image/x-icon" href="h.ico">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link href="https://fonts.googleapis.com/css?family=pacifico" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato:200,300" rel="stylesheet" type="text/css">
+        
+    </head>
+    
+    <body>
+        <div id="header">
+        
+                
+            <img src="yo.jpg" alt="Yo" id="yo">
+            <h1 id="nombre">Othoniel Salas <br> Aparicio </h1>
+            <h2 class="datos"><a href="152t0200@itsm.edu.mx?subject=free phone">152t0200@itsm.edu.mx <img src="link.png"
+                alt="link" class="link"></a> <p> Domicilio conocido s/n Cerro del Tigre, Colipa, Ver.</h2>
+                <h2 class="datos">235 101 3684</h2>
+                <h2 class="datos"><a href="https://www.facebook.com/" target="_blank" onmouseover="perfil de facebook"><img src="fb.png" alt="facebook logo" id="fb">Pistache Salas <img1 src="link.png" alt="link" class="link"></a></h2>
+            
+            
+        
+        <div id="info">
+        
+            <h2 class="titulo">Carrera</h2>
+            <p class="contenido"> Ingenieria en sistemas computacionales</p>
+            
+            <h2 class="titulo">Universidad</h2>
+            <p class="contenido"> Instituto Tecnologico Superior de Misantla</p>
+            
+            <h2 class="titulo">Estudios Realizados</h2>
+            <p class="contenido">  * curso de ingles<br>
+            * curso paquete de office<br>
+            *curso de base de datos<br>
+            *curso de html<br>
+            </p>
+            
+            <h2 class="titulo">peliculas y libros</h2>
+            <p class="contenido"> *los juegos del hambre<br>
+            *los juegos del hambre en yamas<br>
+            *android<br>
+            *hacker<br>
+            *lenguaje ensamblador<br>
+            </p>
+            
+            <h2 class="titulo">Experiencia Laboral</h2>
+            <p class="contenido">Docente<br>
+            </p>
+            
+            <h2 class="titulo">proyectos</h2>
+            <p class="contenido">*impresora 3D<br>
+            *sitio web GamerBox<br>
+            </p>           
+        
+        </div>
+        
+                    
+                    
+        <footer>
+            
+            
+       
+            <P>
+                *TODOS LOS DERECHOS RECERVADOS A OTHONIEL SALAS APARICIO*
+            </P>
+            <p>Matricula 3-19-3416</p>
+        </footer>
+          
+</body>
+</html>
